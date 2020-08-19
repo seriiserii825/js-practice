@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="44a64dbd-42da-463d-8547-c05985d0c5ff" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +21,9 @@
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="1g51sR8nwqAgfzjBcdPPHok0LCz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,7 +31,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -39,7 +46,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -50,22 +57,28 @@
       <option name="presentableId" value="Default" />
       <updated>1597389845507</updated>
       <workItem from="1597389846555" duration="4376000" />
-      <workItem from="1597411358521" duration="599000" />
+      <workItem from="1597411358521" duration="1211000" />
+      <workItem from="1597416530364" duration="1487000" />
+      <workItem from="1597469825896" duration="14000" />
+      <workItem from="1597846506130" duration="618000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="583" y="223" width="426" height="485" key="FileChooserDialogImpl" timestamp="1597390082152">
       <screen x="0" y="25" width="1600" height="875" />
     </state>
     <state x="583" y="223" width="426" height="485" key="FileChooserDialogImpl/0.25.1600.875@0.25.1600.875" timestamp="1597390082152" />
-    <state x="304" y="100" key="SettingsEditor" timestamp="1597390084901">
+    <state x="304" y="100" width="992" height="731" key="SettingsEditor" timestamp="1597416638696">
       <screen x="0" y="25" width="1600" height="875" />
     </state>
-    <state x="304" y="100" key="SettingsEditor/0.25.1600.875@0.25.1600.875" timestamp="1597390084901" />
+    <state x="304" y="100" width="992" height="731" key="SettingsEditor/0.25.1600.875@0.25.1600.875" timestamp="1597416638696" />
     <state x="463" y="214" width="672" height="678" key="search.everywhere.popup" timestamp="1597392960510">
       <screen x="0" y="25" width="1600" height="875" />
     </state>
