@@ -1,0 +1,14 @@
+.hide {
+  display: none;
+}
+.item {
+  margin-bottom: 32px;
+}
+.ask {
+  cursor: pointer;
+}
+.answer {
+  margin: 32px 0;
+  padding: 0 16px;
+  border-left: 2px solid #ccc;
+}
