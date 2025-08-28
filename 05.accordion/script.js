@@ -10,7 +10,9 @@ document.addEventListener("DOMContentLoaded", function () {
     hideAllAnswers();
     const item = this.closest(".item");
     const answer = item.querySelector(".answer");
-    answer.classList.toggle("hide");
+    if (answer.classList.contains("hide")) {
+      answer.classList.toggle("hide");
+    }
   }
 
   function hideAllAnswers() {
